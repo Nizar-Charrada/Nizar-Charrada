@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hi! I'm a dedicated Machine Learning and Data Enthusiast currently pursuing a degree in Software Engineering. My passion lies in the field of AI, where I continually explore and engage with the latest advancements. My interests cover both research and practical engineering, enjoying the process of reading cutting-edge papers and implementing their innovations.
 
 I have hands-on experience in training models for specific domains and developing AI-powered apps. Additionally, I've worked on large language models (LLM), including fine-tuning, implementation, and deployment. On the operational side, I focus on model deployment, ensuring reproducibility, scaling, and efficient inference.
-- 💼 I am currently pursuing a masters degree in Software Engineering.
+- 💼 I am currently pursuing a master's degree in Software Engineering.
 - 📫 Reach me via email at nizar.charrada@insat.ucar.tn.
 
 Check out my Zindi Profile: https://zindi.africa/users/Charrada
